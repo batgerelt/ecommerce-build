@@ -1,5 +1,5 @@
-User-agent: *
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 Allow: /
 Allow: /productdetail/2130016826009
 
-Sitemap: https://www.emartmall.mn/
+Sitemap: https://www.emartmall.mn
