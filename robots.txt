@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
+Allow: /productdetail/2130016826009
 
 Sitemap: https://www.emartmall.mn/
