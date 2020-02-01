@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Sitemap files
-Sitemap: https://technicalseo.com/sitemap.xml
+Sitemap: https://www.emartmall.com/sitemap.xml
