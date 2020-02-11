@@ -1,6 +1,6 @@
 {
   "main.css": "static/css/main.9d31cd83.css",
-  "main.js": "static/js/main.79080fd4.js",
+  "main.js": "static/js/main.bd9850b5.js",
   "static\\media\\001-search.svg": "static/media/001-search.05c14bba.svg",
   "static\\media\\002-shopping-cart.svg": "static/media/002-shopping-cart.deb82563.svg",
   "static\\media\\003-chat-Copy.svg": "static/media/003-chat-Copy.d9d05ef9.svg",
@@ -31,5 +31,6 @@
   "static\\media\\store.svg": "static/media/store.30406e90.svg",
   "static\\media\\user.png": "static/media/user.de413303.png",
   "static\\media\\user.svg": "static/media/user.f990ed44.svg",
+  "static\\media\\valentineBanner.png": "static/media/valentineBanner.c76d2d80.png",
   "static\\media\\wishlist.svg": "static/media/wishlist.96df80bb.svg"
 }
