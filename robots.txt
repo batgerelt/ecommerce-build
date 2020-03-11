@@ -1,6 +1,0 @@
-# All robots allowed
-User-agent: *
-Disallow:
-
-# Sitemap files
-Sitemap: https://www.emartmall.mn/sitemap.xml
