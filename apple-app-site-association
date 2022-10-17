@@ -1,1 +1,11 @@
-asdf
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+           {
+               "appID": "M35WT7Y8NC.com.emartmn.mobile",
+               "paths": [ "*" ]
+           }
+       ]
+   }
+}
